@@ -10,5 +10,5 @@ Twitter bot posting daily tweets based on theNewYorkTimes API. This one search a
 
 ## First Look
 
-![App Screenshot](file:///Users/karolmarszalek/Desktop/Screen%20Shot%202023-02-28%20at%2022.56.59.png)
+![App Screenshot]/Users/karolmarszalek/Desktop/Screen\ Shot\ 2023-02-28\ at\ 22.56.59.png 
 
