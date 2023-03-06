@@ -4,7 +4,7 @@ import tweepy
 import configparser
 
 config = configparser.ConfigParser()
-config.read('/Users/karolmarszalek/app/config.ini')
+config.read('YOUR_PATH_WITH_CONFIG_FILES')
 
 nyt_api_key = config ['twitter']['nyt_api']
 api_key = config['twitter']['api_key']
